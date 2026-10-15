@@ -1,0 +1,12 @@
+{
+    "name": "Bulawayo City Council — Digital Services",
+    "short_name": "Bulawayo City",
+    "description": "Pay rates, view water schedules and report municipal issues.",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "background_color": "#f8fafc",
+    "theme_color": "#143E62",
+    "icons": [
+        { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    ]
+}
